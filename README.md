@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Exvix
-- 👀 I’m interested in low level programming and IoT
+- 👀 I’m interested in game development and library development
 - 🌱 I’m currently learning C and C++
+- I've already learnt Python
 - 📫 How to reach me: bahman.alta@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dr. Mario and Mario are 2 separate entities within the Mario universe
