@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Exvix
+- 👋 Hi, I’m @bahmoudd
 - 👀 I’m interested in game development and library development
 - 🌱 I’m currently learning C and C++
 - I've already learnt Python
